@@ -1,0 +1,7 @@
+.navbar{
+    display: grid;
+    grid-template-columns: 1fr, 1fr;
+}
+.navbar div{
+    width: 40%;
+}
